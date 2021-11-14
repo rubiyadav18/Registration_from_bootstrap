@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-success{
+    background-color: lawngreen;
+    height: 100vh;
+    width: 100vw;
+}
+.img-fluid{
+    width: 600px;
+    height: 600px;
+    margin-top: 12rem;
+    margin-left: 24rem;
+
+}
+.colors{
+    margin-top: 2rem;
+    color:rgb(16, 165, 108); 
+}
+.email_heading{
+    color: rgb(16, 165, 108);
+}
+.sliver_color{
+    color: rgb(16, 165, 108);
+}
+.cencel_button{
+    margin-left: -4rem;
+    width: 75;
+}
+.confrm_botton{
+    margin-left: 1rem;
+}
